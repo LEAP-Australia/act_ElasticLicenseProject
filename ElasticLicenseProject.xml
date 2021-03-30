@@ -21,6 +21,7 @@
     <guid>a2d9115d-1a49-4be2-80d8-578165829ed5</guid>
     <script src="main.py" />
     <interface context="Project">
+    <images>images</images>
         <callbacks>
             <oninit>get_set_project</oninit>
         </callbacks>
